@@ -48,15 +48,12 @@ npm run build
 
 ```
 resume/
-├── assets/
 ├── src/
 ├── index.html
 ├── package.json
-├── tailwind.config.js
 └── README.md
 ```
 
 ## Live Demo
-
-Coming Soon
+saurabhwakderesume.netlify.app
 
