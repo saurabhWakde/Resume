@@ -1,6 +1,6 @@
 # Resume
 <p align="center">
-  <img src="./assets/preview.png" alt="Resume Preview" width="650">
+  <img src="./assets/preview.png" alt="Resume Preview" width="350">
 </p>
 
 <p align="center">
@@ -62,5 +62,5 @@ resume/
 ```
 
 ## Live Demo
-saurabhwakderesume.netlify.app
+👉 **https://saurabhwakderesume.netlify.app**
 
