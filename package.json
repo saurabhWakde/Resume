@@ -4,8 +4,8 @@
   "description": "Modern developer resume designed and developed with HTML and Tailwind CSS.",
   "main": "index.js",
  "scripts": {
-  "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-  "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+  "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --watch",
+  "build": "npx @tailwindcss/cli -i ./src/input.css -o ./dist/output.css --minify"
 },
   "repository": {
     "type": "git",
