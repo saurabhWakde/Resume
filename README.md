@@ -1,5 +1,5 @@
 # Resume
-![Resume Preview](./assets/preview.png)
+![Resume Preview](./assets/review.png)
 A modern, responsive, and ATS-friendly developer resume built with HTML and Tailwind CSS.
 
 ## Features
