@@ -1,4 +1,5 @@
 # Resume
+![Resume Preview](./assets/preview.png)
 A modern, responsive, and ATS-friendly developer resume built with HTML and Tailwind CSS.
 
 ## Features
@@ -48,6 +49,7 @@ npm run build
 
 ```
 resume/
+├── assets/
 ├── src/
 ├── index.html
 ├── package.json
